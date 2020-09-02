@@ -1,22 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Mailbox
 
-You can use the [editor on GitHub](https://github.com/deadbydawn/mailbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Whenever I get something in the mail I feel like keepign I will post here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Mailbox
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+[Link](https://github.com/deadbydawn/mailbox/blob/gh-pages/Amazing_Grace(Aug2020).pdf)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
