@@ -1,6 +1,6 @@
 ## Welcome to My Mailbox
 
-Whenever I get something in the mail I feel like keepign I will post here.
+Whenever I get something in the mail I feel like keeping I will post here.
 
 ### Mailbox
 
